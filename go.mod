@@ -40,10 +40,9 @@ require (
 	github.com/xdg/stringprep v1.0.0 // indirect
 	gitlab.com/nyarla/go-crypt v0.0.0-20160106005555-d9a5dc2b789b // indirect
 	go.mongodb.org/mongo-driver v1.1.0
-	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073 // indirect
 	golang.org/x/exp v0.0.0-20200213203834-85f925bdd4d0 // indirect
-	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
-	golang.org/x/tools v0.0.0-20200213224642-88e652f7a869
+	golang.org/x/net v0.7.0
+	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.17.0
 	google.golang.org/genproto v0.0.0-20200212174721-66ed5ce911ce
 	modernc.org/b v1.0.0 // indirect
